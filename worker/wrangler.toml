@@ -1,0 +1,8 @@
+name = "ih13-osakiyosuke-api"
+main = "src/index.js"
+compatibility_date = "2026-09-10"
+
+# 独自ドメインを追加する場合は、カンマ区切りで許可オリジンを指定します。
+# 例: ALLOWED_ORIGINS = "https://example.com,https://www.example.com"
+[vars]
+ALLOWED_ORIGINS = ""
